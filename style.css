@@ -73,8 +73,8 @@ header ul {
 }
 #newsletter {
   background: url("https://s3-us-west-2.amazonaws.com/uw-s3-cdn/wp-content/uploads/sites/6/2019/05/22143950/SockeyeSalmon_single.jpg")
-  no-repeat -00px;
-  color: #ffffff;
+  no-repeat 0-00px;
+  color: #e8491d;
   padding: 30px;
   min-height: 400px;
 }
